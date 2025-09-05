@@ -27,7 +27,7 @@ public class StudentDataUtil {
 	}
 	
 
-	public List<Student> getStudent() {
+	public List<Student> getStudents() {
 		return student;
 	}
 	
